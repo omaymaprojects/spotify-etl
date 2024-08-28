@@ -31,7 +31,7 @@ Selecting relevant fields for analysis.
 Writing the transformed data back to an S3 bucket in Parquet format, stored in the data-warehouse folder.
 
 5. Data Querying with Amazon Athena
-6. 
+
 Purpose: Used to query the transformed data stored in S3.
 
 Queries Executed: SQL queries to aggregate and analyze data, such as:
@@ -45,7 +45,7 @@ Aggregating artist follower counts.
 Output: The results provide insights into Spotify data trends and patterns.
 
 8. Data Visualization with Amazon QuickSight
-9. 
+ 
 Visualizations: The data queried in Athena is visualized using QuickSight to create insightful dashboards, including:
 
 Popularity trends of tracks over time.
